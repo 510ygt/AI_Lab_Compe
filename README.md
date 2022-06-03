@@ -28,7 +28,3 @@ git commit -m 'コミットメッセージ'
 ```
 git push origin ブランチ名
 ```
-# test_compe
-# test_compe
-# test_compe
-# test_compe
